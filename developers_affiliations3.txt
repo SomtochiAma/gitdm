@@ -21459,6 +21459,8 @@ somesh2905: somesh2905!users.noreply.github.com
 	Independent until 2019-07-01
 	MayaData from 2019-07-01 until 2020-05-01
 	Independent from 2020-05-01
+somtochiama: somtochionyekwere!gmail.com, somtochi!weave.works, somtochi!users.noreply.github.com
+	Weaveworks
 somnathr: somnath.roy!sandisk.com
 	SanDisk until 2017-06-01
 	Samsung from 2017-06-01
